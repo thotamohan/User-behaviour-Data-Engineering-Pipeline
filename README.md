@@ -1,4 +1,4 @@
-# Beginner DE Project - Batch Edition
+# Beginner Data Engineering Project 
 
 
 ## Prereq
